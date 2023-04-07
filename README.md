@@ -6,4 +6,4 @@ For CycleGAN we used the same idea with, but implemented differently, since Pix2
 Commentaries and outputs have been provided inside the notebook.
 
 # Running the project
-In order to run the project, please place the dataset from our course inside the repository folder, so that jupyter and folder "facades" is in the same folder.
+In order to run the project, please place the dataset from our course inside the repository folder, so that jupyter notebook and folder "facades" is in the same folder.
